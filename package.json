@@ -1,0 +1,22 @@
+{
+  "name": "hollow-knight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nightmere/Hollow-Knight.git"
+  },
+  "author": "Judar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nightmere/Hollow-Knight/issues"
+  },
+  "homepage": "https://github.com/Nightmere/Hollow-Knight#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}

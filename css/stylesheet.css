@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font-family: Poppins;
+  color: white;
+  margin: 0px;
+  padding: 0px; }
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
